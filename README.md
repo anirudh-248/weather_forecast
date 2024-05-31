@@ -1,2 +1,2 @@
-# AQI checker
-A user-friendly website that provides real-time Air Quality Index (AQI) information for any location worldwide. The website checks the AQI of the specified location and offers comprehensive data about pollutant levels, AQI ranges, and other relevant information.
+# Weather Forecast
+A user-friendly website offering real-time weather information for any location worldwide. The site provides comprehensive data on current temperatures, rain probability, accumulated snowfall, and other relevant weather details.
